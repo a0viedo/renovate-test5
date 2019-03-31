@@ -2192,10 +2192,10 @@ jmespath@0.15.0:
   resolved "https://registry.yarnpkg.com/jmespath/-/jmespath-0.15.0.tgz#a3f222a9aae9f966f5d27c796510e28091764217"
   integrity sha1-o/Iiqarp+Wb10nx5ZRDigJF2Qhc=
 
-joi-to-json-schema@^3.4.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/joi-to-json-schema/-/joi-to-json-schema-3.5.0.tgz#dccc97b48e4a1004cce7dccb7bfe572aeace758f"
-  integrity sha512-Ot6FuZoctnXAJ0mQGdX/Ls6p6UGJXZST3lHfLabdBjNqdeph22MEvs5UMDq1/wg47dEgqwWqgen3EZL30/jKeA==
+joi-to-json-schema@^4.0.0:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/joi-to-json-schema/-/joi-to-json-schema-4.0.1.tgz#bb6aee73a4e9f0f4ce143a408ab524c204d529aa"
+  integrity sha512-MYJ+gqucm9ZhI6x8FHNYTCY4M6ROlbtFeibjVk+SnPXxbirFc+TdcelXKcjbKfdIvzVkT6kVxQuRK22tQLa6lQ==
 
 joi@^14.0.4:
   version "14.3.1"
