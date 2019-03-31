@@ -3,5 +3,14 @@
     "config:base"
   ],
   "pinVersions": false,
-  "prHourlyLimit": 0
+  "prHourlyLimit": 0,
+  "rangeStrategy": "replace",
+  "packageRules": [
+    {
+      "depTypeList": [
+        "devDependencies"
+      ],
+      "enabled": false
+    }
+  ]
 }
