@@ -40,7 +40,7 @@
     "mime": "^2.4.0",
     "mongodb": "^3.1.13",
     "node-vault": "^0.9.5",
-    "node-yaml": "^3.1.1",
+    "node-yaml": "^3.2.0",
     "p-retry": "^3.0.1",
     "pkgcloud": "^1.7.0",
     "protobufjs": "^6.8.8",

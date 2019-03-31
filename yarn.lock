@@ -2812,7 +2812,7 @@ node-vault@^0.9.5:
     request-promise-native "^1.0.5"
     tv4 "^1.2.7"
 
-node-yaml@^3.1.1:
+node-yaml@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/node-yaml/-/node-yaml-3.2.0.tgz#0bc04713d4a9342e8fb92caf7b5fa8d305037852"
   integrity sha512-5c7TNdFOLOaY/TN0fBDrfJg+N6Z1+Ch7O/QuN2wostfo9Q4qbpOTAjk1WZ3bxgSfRPrJF4rgWdL26N2Svdljhw==
