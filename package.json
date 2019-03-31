@@ -57,7 +57,7 @@
   "devDependencies": {
     "joi-to-json-schema": "^3.4.0",
     "json-schema-test-data-generator": "^0.1.1",
-    "mocha": "^5.2.0",
+    "mocha": "^6.0.0",
     "nyc": "^13.0.1",
     "sinon": "^6.3.5",
     "typedoc": "^0.14.0"
