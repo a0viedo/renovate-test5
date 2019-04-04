@@ -7,7 +7,7 @@
     
   },
   "dependencies": {
-    "@google-cloud/storage": "^2.4.2",
+    "@google-cloud/storage": "^2.5.0",
     "@google-cloud/trace-agent": "3.3.1",
     "@grpc/proto-loader": "^0.3.0",
     "@types/aws-sdk": "^2.7.0",
