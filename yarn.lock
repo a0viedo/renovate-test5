@@ -740,10 +740,10 @@ base64url@~1.0.4:
     concat-stream "~1.4.7"
     meow "~2.0.0"
 
-basic-ftp@^3.3.1:
-  version "3.4.4"
-  resolved "https://registry.yarnpkg.com/basic-ftp/-/basic-ftp-3.4.4.tgz#371513cceaf2a5e13c37fd3124c321cc4c2fab5c"
-  integrity sha512-aU9nwsw6og9IajVjVW/lhJVHUawObSIHoUIEoxSgX9jXKpQmVvTqwH1ut6mstygVE1pUSW2KEU4Y2zKzKy9whQ==
+basic-ftp@^3.8.7:
+  version "3.8.7"
+  resolved "https://registry.yarnpkg.com/basic-ftp/-/basic-ftp-3.8.7.tgz#5a2dcfafcd269b1dccfc1b494ba03cca33bfaa3a"
+  integrity sha512-FAV3rRx5pD978tLe5roq+kERom2iVaGJesDLcFSaSr3Z3ELwtdXdFWEYIKiTIbX72vDu/wOWi0kz/LJQNueZHw==
 
 bcrypt-pbkdf@^1.0.0, bcrypt-pbkdf@^1.0.2:
   version "1.0.2"
