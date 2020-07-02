@@ -48,7 +48,7 @@
     "request-promise-native": "^1.0.7",
     "should": "^13.2.3",
     "ssh2-sftp-client": "^2.4.3",
-    "ts-node": "^7.0.1",
+    "ts-node": "^8.10.2",
     "tslint": "^5.12.1",
     "tslint-config-standard": "^8.0.1",
     "typescript": "^3.2.2",
