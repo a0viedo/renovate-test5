@@ -429,18 +429,12 @@
     "@types/bson" "*"
     "@types/node" "*"
 
-"@types/mustache@*":
-  version "0.8.32"
-  resolved "https://registry.yarnpkg.com/@types/mustache/-/mustache-0.8.32.tgz#7db3b81f2bf450bd38805f596d20eca97c4ed595"
-  integrity sha512-RTVWV485OOf4+nO2+feurk0chzHkSjkjALiejpHltyuMf/13fGymbbNNFrSKdSSUg1TIwzszXdWsVirxgqYiFA==
-
-"@types/node-vault@^0.5.3":
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/@types/node-vault/-/node-vault-0.5.3.tgz#354f61a5c3644214add303891040fc7dcc079a61"
-  integrity sha512-DeG55u2GNYDgwJmRUr3iU7bf4LjyRnFMJmyux0d/9mUdCIOaYzHTdga0UfdbASn/jczxNI4HQNjgK+ORmiVZ1Q==
+"@types/node-vault@^0.9.1":
+  version "0.9.13"
+  resolved "https://registry.yarnpkg.com/@types/node-vault/-/node-vault-0.9.13.tgz#10d9fe5c9b53995c0ee24fcaeb11ba27241d6c50"
+  integrity sha512-TQ9zYIzFT4Oo6NVTISk9p4qbuWkVmrs7Rds53uc16sSvQeIC4WGp2y9BXVaKMoGkYQ7jAWlveFTPXLEzuCZffQ==
   dependencies:
-    "@types/mustache" "*"
-    "@types/request" "*"
+    node-vault "*"
 
 "@types/node@*":
   version "11.12.2"
@@ -2801,15 +2795,15 @@ node-uuid@^1.4.1:
   resolved "https://registry.yarnpkg.com/node-uuid/-/node-uuid-1.4.8.tgz#b040eb0923968afabf8d32fb1f17f1167fdab907"
   integrity sha1-sEDrCSOWivq/jTL7HxfxFn/auQc=
 
-node-vault@^0.9.5:
-  version "0.9.6"
-  resolved "https://registry.yarnpkg.com/node-vault/-/node-vault-0.9.6.tgz#37853b669d0944d99ce35f1af7b9bcd5dbc88d3b"
-  integrity sha512-luacwNLcOcDi5Fcnm+T19weRZqA4nqLQuLg7ubo4uz3iIFyESPgUI5Vo+8I1nZLkCGa4LUHSR3nOJNDMZQAjkA==
+node-vault@*, node-vault@^0.9.21:
+  version "0.9.21"
+  resolved "https://registry.yarnpkg.com/node-vault/-/node-vault-0.9.21.tgz#ce261ebf223df87606b4f3df4a284e5584f03990"
+  integrity sha512-lgWiBppZQcPBsNzd8i/5WgUH/LtcjpeEoz1vFEER4FNs0RKLy7AQp6Vhmzm3Psj1oQHPRc95gEFvOStFUQICHg==
   dependencies:
     debug "3.1.0"
     mustache "^2.2.1"
-    request "^2.83.0"
-    request-promise-native "^1.0.5"
+    request "2.88.0"
+    request-promise-native "1.0.7"
     tv4 "^1.2.7"
 
 node-yaml@^3.1.1:
@@ -3429,7 +3423,7 @@ request-promise-core@1.1.2:
   dependencies:
     lodash "^4.17.11"
 
-request-promise-native@^1.0.5, request-promise-native@^1.0.7:
+request-promise-native@1.0.7, request-promise-native@^1.0.7:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/request-promise-native/-/request-promise-native-1.0.7.tgz#a49868a624bdea5069f1251d0a836e0d89aa2c59"
   integrity sha512-rIMnbBdgNViL37nZ1b3L/VfPOpSi0TqVDQPAvO6U14lMzOLrt5nilxCQqtDKhZeDiW0/hkCXGoQjhgJd/tCh6w==
@@ -3438,7 +3432,7 @@ request-promise-native@^1.0.5, request-promise-native@^1.0.7:
     stealthy-require "^1.1.1"
     tough-cookie "^2.3.3"
 
-request@^2.39.0, request@^2.54.0, request@^2.74.0, request@^2.83.0, request@^2.88.0:
+request@2.88.0, request@^2.39.0, request@^2.54.0, request@^2.74.0, request@^2.88.0:
   version "2.88.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   integrity sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg==
