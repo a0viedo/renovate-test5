@@ -30,7 +30,7 @@
     "bluebird": "^3.5.1",
     "etcd3": "^0.2.11",
     "fast-safe-stringify": "^2.0.6",
-    "google-protobuf": "^3.6.1",
+    "google-protobuf": "^3.17.3",
     "grpc": "1.16.1",
     "heapdump": "^0.3.12",
     "joi": "^14.0.4",
